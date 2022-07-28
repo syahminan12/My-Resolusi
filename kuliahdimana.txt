@@ -4,4 +4,6 @@ Rencana Kuliah
 -UGM
 -UNY
 -ULM
-jurusan : teknik informatika
+
+jurusan : teknik informatika atau kehutanan
+
