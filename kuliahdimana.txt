@@ -3,5 +3,5 @@ Rencana Kuliah
 -ITS
 -UGM
 -UNY
--ULM
-jurusan : teknik informatika
+
+jurusan : teknik informatika/teknologi pangan
