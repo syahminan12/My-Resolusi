@@ -3,3 +3,5 @@ Rencana Kuliah
 -ITS
 -UGM
 -UNY
+
+jurusan : teknik informatika
